@@ -1,6 +1,6 @@
-#include "stdafx.h"
 #include <new>
 #include <iostream>
+
 #include "xlist.h"
 #include "xmap.h"
 #include "xqueue.h"
